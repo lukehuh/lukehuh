@@ -73,7 +73,7 @@ async function createInitialHelpMenu() {
     ];
 
     const embed = createEmbed({ 
-        title: "Lukehuh Help Center",
+        title: ":whitestar: Lukehuh Help Center",
         description: "Your all-in-one Discord companion for moderation, economy, fun, and server management.",
         color: 'primary'
     });
