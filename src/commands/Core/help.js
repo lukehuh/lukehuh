@@ -157,7 +157,7 @@ async function createInitialHelpMenu() {
     );
 
     embed.setFooter({ 
-        text: "" 
+        text: = null 
     });
     embed.setTimestamp();
 
